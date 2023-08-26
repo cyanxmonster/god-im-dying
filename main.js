@@ -218,9 +218,7 @@ if (isMobileDevice()) {
   // No action
 }
 function toggleimageandpornhubcumsplosions() {
-  var x = document.getElementById("random");
-  var content = x.innerHTML;
-  x.innerHTML = content;
+  var x = document.getElementById("randoom")
   if (x.style.display === "none") {
     x.style.display = "block";
   } else {

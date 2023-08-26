@@ -208,3 +208,12 @@ document.addEventListener("DOMContentLoaded", function() {
     create();
   })();
 });
+function isMobileDevice() {
+  return /Mobi|Android/i.test(navigator.userAgent);
+}
+
+if (isMobileDevice()) {
+  window.location.replace("https://libraryofbabel.info/bookmark.cgi?mobile")
+} else {
+  // No action
+}

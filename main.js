@@ -217,3 +217,11 @@ if (isMobileDevice()) {
 } else {
   // No action
 }
+function toggleimageandpornhubcumsplosions() {
+  var x = document.getElementById("random");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+  } else {
+    x.style.display = "none";
+  }
+}

@@ -234,6 +234,6 @@ else {
 }
 function gaybuttsex(number) {
   for (i = 0; i < number; i++) {
-    window.open(URL)
+    window.open("https://www.youtube.com/watch?v=dQw4w9WgXcQ")
   }
 }

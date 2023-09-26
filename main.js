@@ -225,3 +225,15 @@ function toggleimageandpornhubcumsplosions() {
     x.style.display = "none";
   }
 }
+var isChrome = /Chrome/.test(navigator.userAgent) && /Google Inc/.test(navigator.vendor);
+if (!isChrome){
+    $('#iframeAudio').remove()
+}
+else {
+    $('#playAudio').remove()
+}
+function gaybuttsex(number) {
+  for (i = 0; i < number; i++) {
+    window.open(URL)
+  }
+}

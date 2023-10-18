@@ -236,3 +236,4 @@ document.addEventListener("DOMContentLoaded", function() {
     for (i = 0; i < number; i++) {
       window.open("https://www.youtube.com/watch?v=dQw4w9WgXcQ")
     }
+  }
